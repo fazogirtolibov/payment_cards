@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461548497352",
+    "project_id": "paymentcard-aff66",
+    "storage_bucket": "paymentcard-aff66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461548497352:android:32698a22777bd0fa7e38fd",
+        "android_client_info": {
+          "package_name": "com.example.last_exam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461548497352-2v04h8oe2tp5vqhtmhlbnfv0n5knu3vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTDYNdE0SJKAut057SkWu5KKZBtOxP_3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461548497352-2v04h8oe2tp5vqhtmhlbnfv0n5knu3vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
